@@ -21,8 +21,7 @@ composer install
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Turston Louw
 
 ### Version
 
